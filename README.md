@@ -46,10 +46,14 @@
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikita-rathi0506&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-rathi0506&layout=compact&theme=radical&langs_count=8"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikita-rathi0506&show_icons=true&theme=radical&hide=stars&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-rathi0506&layout=compact&theme=radical)
+
+*📊 Stats update as I build more projects. Currently active with CareerCanvas & AI pipelines!*
+
+</div>
 ---
 
 ### 🚀 Featured Projects
