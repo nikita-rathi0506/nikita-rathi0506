@@ -43,19 +43,6 @@
 
 ---
 
-### ⚙️ GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikita-rathi0506&show_icons=true&theme=radical&hide=stars&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-rathi0506&layout=compact&theme=radical)
-
-*📊 Stats update as I build more projects. Currently active with CareerCanvas & AI pipelines!*
-
-</div>
----
-
 ### 🚀 Featured Projects
 
 #### 🤖 **CareerCanvas** (Currently Building)
