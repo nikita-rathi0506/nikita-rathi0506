@@ -139,11 +139,6 @@
 
 ### 📈 My Journey So Far
 
-
-
-```markdown
-### 📈 My Journey So Far
-
 | Phase | Focus | Technologies |
 |-------|-------|--------------|
 | **First 3 Semesters** | Full Stack Foundation | HTML, CSS, JavaScript |
@@ -153,9 +148,12 @@
 
 **From full-stack foundations → specialized AI/SDE development**
 
+---
+
 <div align="center">
-⭐️ From nikita-rathi0506 | Building focused, shipping quality ⭐️
+  
+**⭐️ From [nikita-rathi0506](https://github.com/nikita-rathi0506) | Building focused, shipping quality ⭐️**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikita-rathi0506&color=blueviolet&style=flat-square)
 
-</div> ```
+</div>
