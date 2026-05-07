@@ -140,7 +140,6 @@
 ### 📈 My Journey So Far
 
 
-**Replace it with this simplified version** (no more error):
 
 ```markdown
 ### 📈 My Journey So Far
@@ -157,6 +156,6 @@
 <div align="center">
 ⭐️ From nikita-rathi0506 | Building focused, shipping quality ⭐️
 
-https://komarev.com/ghpvc/?username=nikita-rathi0506&color=blueviolet&style=flat-square
+![Profile Views](https://komarev.com/ghpvc/?username=nikita-rathi0506&color=blueviolet&style=flat-square)
 
 </div> ```
