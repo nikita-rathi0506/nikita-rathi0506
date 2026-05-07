@@ -139,15 +139,21 @@
 
 ### 📈 My Journey So Far
 
-```mermaid
-timeline
-    title Skill Evolution
-    First 3 Semesters : Full Stack Foundation
-                     : HTML, CSS, JavaScript
-    Current Phase    : SDE (C++/Python)
-                     : AI Engineer (LLMs, RAG)
-    Building Now     : CareerCanvas Platform
-                     : Production AI Systems
+
+**Replace it with this simplified version** (no more error):
+
+```markdown
+### 📈 My Journey So Far
+
+| Phase | Focus | Technologies |
+|-------|-------|--------------|
+| **First 3 Semesters** | Full Stack Foundation | HTML, CSS, JavaScript |
+| **Current Phase** | SDE (C++/Python) | C++, Python, DSA |
+| **Current Phase** | AI Engineer | LLMs, RAG, LangChain, FastAPI |
+| **Building Now** | CareerCanvas Platform | Production AI Systems |
+
+**From full-stack foundations → specialized AI/SDE development**
+
 <div align="center">
 ⭐️ From nikita-rathi0506 | Building focused, shipping quality ⭐️
 
